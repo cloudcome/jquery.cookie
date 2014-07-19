@@ -1,0 +1,25 @@
+{
+  "name": "jquery.cookie",
+  "version": "1.1.1",
+  "description": "Simple to operate cookie.",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "cookie"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery.cookie"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery.cookie.js",
+    "dependencies": {}
+  }
+}
